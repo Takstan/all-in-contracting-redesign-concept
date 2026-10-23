@@ -1,0 +1,6 @@
+{
+  "name": "All In Contracting — Okanagan Renovation & General Contracting",
+  "description": "A renovation partner who takes the stress out of building. High-end residential renovations, commercial tenant improvements, and project management in Kelowna and the Okanagan Valley.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
